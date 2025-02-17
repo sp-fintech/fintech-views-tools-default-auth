@@ -4,7 +4,7 @@
 	"description" : "<p>SP Framework Fintech Auth View<br></p>",
 	"module_type" : "views",
 	"app_type" : "fintech",
-	"category" : "default",
+	"category" : "tools",
 	"version" : "0.3.0",
 	"repo" : "https://github.com/sp-fintech/fintech-views-tools-default-auth",
 	"dependencies" : 
@@ -21,14 +21,11 @@
 			"version" : "0.3.0",
 			"repo" : "https://github.com/sp-fintech/fintech"
 		},
-		"components" : [],
-		"packages" : [],
-		"middlewares" : [],
 		"views" : 
 		[
 			{
 				"name" : "Default",
-				"version" : "0.1.0",
+				"version" : "0.10.0",
 				"repo" : "https://github.com/sp-fintech/fintech-views-tools-default"
 			}
 		]
