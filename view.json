@@ -1,7 +1,7 @@
 {
 	"name" : "Auth",
-	"display_name" : "SP Framework Fintech Auth View",
-	"description" : "<p>SP Framework Fintech Auth View<br></p>",
+	"display_name" : "Fintech Auth View",
+	"description" : "<p>Fintech Auth View<br></p>",
 	"module_type" : "views",
 	"app_type" : "fintech",
 	"category" : "tools",
